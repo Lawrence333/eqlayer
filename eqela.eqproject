@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# retest2
+#
+
+projectname: retest2
+vendorid: com.lma.tst
+mainmodule: com.lma.tst.retest2
